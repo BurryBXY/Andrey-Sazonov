@@ -11,3 +11,6 @@
 ## Скриншот кода и среды
 ![](https://user-images.githubusercontent.com/113243115/190896204-22eecc9a-7a58-4c69-8bb5-d3856c4dadbe.jpg)
 
+## Задания с сайта
+![2](https://user-images.githubusercontent.com/113243115/190898268-ff57645e-5a6a-4e7a-aecf-1bbae566df50.jpg)
+
