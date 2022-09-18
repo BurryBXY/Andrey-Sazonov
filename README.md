@@ -9,3 +9,5 @@
 Язык написания python версии 3.9. Рекомендуемая среда - Visual studio code
 
 ## Скриншот кода и среды
+![](https://user-images.githubusercontent.com/113243115/190896204-22eecc9a-7a58-4c69-8bb5-d3856c4dadbe.jpg)
+
